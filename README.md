@@ -7,6 +7,14 @@ Bonjour à vous 😁
 Vous avez envie de vous lancer dans l’industrie du jeu vidéo ?
 Et vous voulez commencer avec **Unreal Engine** pour créer des expériences en **réalité virtuelle** ou **mixte** ? Parfait, ce programme est pour vous !
 
+
+**Formation :**
+👉 [Découvrez le métier de développeur XR](https://technocite.be/formations/decouvrez-le-metier-de-developpeur-xr)
+
+**Si vous appréciez et souhaitez aller plus loin :**
+👉 [Devenez développeur Unreal orienté XR](https://technocite.be/formations/developpeur-unreal-oriente-xr)
+
+
 ---
 
 ## Planning  
