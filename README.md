@@ -1,6 +1,8 @@
-# 2025_09_01_HelloUnrealXR
+# Hello Unreal XR
 
-Bonjour a vous, 
+Bonjour a vous 😁.
+
+Vous avez envie de commencer dans l industrie du jeux video et vous avez envie de commencer sur Unreal Engine pour faire de la realite virtuelle ou mixed.
 
 
 ## Planning
