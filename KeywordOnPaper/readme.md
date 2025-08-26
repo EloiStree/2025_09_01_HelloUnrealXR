@@ -53,11 +53,11 @@ In the Quest3, they are menu you must know exists.
 - Setup the Guardian
 - Scan the room Mesh
 - Edit the room scan object
-- Wifi
+- Wifis
 - Bluetooth
   - Add Mouse
   - Add Keyboard
-- Enable disable hand
+- Enable disable handd
 
 
 
@@ -77,6 +77,14 @@ Quest Depth API:
 
 Quest Camera API:
 - To add 
+
+
+
+Meta Quest Remote Desktop
+
+
+
+
 
 
 Quest Anchor:
