@@ -1,6 +1,13 @@
 If I have to put keyword on paper of what you need to learn that dont need game engine but are linked to create game ?
 
 
+Basic debutant:
+- C est quoi un gachette
+- C est quoi un grip / grap
+- C boutton menu de gauche et menu de droite
+- Pincher avec les doights
+- Appeler un menu avec les doigths.
+
 Guardian and space:
 
 Evolution of the Guardian and where we are.
