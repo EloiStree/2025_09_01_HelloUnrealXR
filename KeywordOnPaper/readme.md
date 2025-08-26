@@ -92,3 +92,14 @@ Quest Anchor:
 
 - Enable disable guardian
 - Developer Option
+
+
+AR Glass ?
+- Google Glass: The start point
+- Hololens: What you want but at 500e not 2500e+
+- 20 years of muuh diversity
+- HDMI watch movie glass
+- Camera + Microphone
+- Camera + Microphone + Mini screen one color
+- Vision Pro ? Nope but nice try.
+- Meta Orian https://youtu.be/mpKKcqWnTus
