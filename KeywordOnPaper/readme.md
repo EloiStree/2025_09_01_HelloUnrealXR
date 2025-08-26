@@ -30,7 +30,7 @@ What is it and the different step.
 (You dont have to do it on the formation center Quest provided)
 - Step to be developer
   - Create a Meta Account
-  - Add authentification
+  - Add authentification 
   - Add Organisation
     - Create an app for fun
   - Go on the phone and connect to your account
