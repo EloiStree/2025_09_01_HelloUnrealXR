@@ -51,5 +51,29 @@ In the Quest3, they are menu you must know exists.
   - Add Mouse
   - Add Keyboard
 - Enable disable hand
+
+
+
+Play on a Hosted compute like Shadow
+- Virtual Desktop : Perfect
+- Steam Link: Sadly Nope
+- ALXR : Could but nope
+- Quest Remote: YES :)
+
+
+Special:
+- Raspberry Pi Connect
+- Quest HDMI
+
+Quest Depth API:
+- To add 
+
+Quest Camera API:
+- To add 
+
+
+Quest Anchor:
+- To add 
+
 - Enable disable guardian
 - Developer Option
