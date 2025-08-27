@@ -30,7 +30,7 @@ Evolution of the Guardian and where we are.
 - AR Camera Areana Battle, post Camera API: Now we can talk.
   - Gym game: [<img width="487" height="483" alt="image" src="https://github.com/user-attachments/assets/db5e44af-2fd3-4bcb-80d1-d42c58cb3c5b" />](https://www.linkedin.com/posts/marakdavid_future-of-esports-only-with-immersive-activity-7366362820776538112-DcuU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo)
  
-
+- Public space application:  https://www.linkedin.com/posts/ugcPost-7363634971921514497-65hl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
 
 Developer Mode
 
@@ -111,3 +111,8 @@ You choosed Unreal engine but what game engine can you use ?
 - Unity 3D https://unity.com/releases/editor/archive
 - Godot https://godotengine.org
 - WebXR https://immersiveweb.dev
+
+
+Connect HDMI to the headset
+- To have camera directly in the headset
+  - https://www.linkedin.com/posts/mattfisherprecipitate_applevisionpro-ugcPost-7366471207451324416-io9S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo 
