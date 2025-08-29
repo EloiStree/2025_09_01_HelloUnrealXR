@@ -41,6 +41,9 @@
   * [ ]  Vous avez tester Cubism
   * [ ]  Vous avez tester Open Brush en mode VR
   * [ ]  Vous avez tester Open Brush en mode passthrough
+* Other:
+  * [ ]  [Wall Town Wonders](https://github.com/EloiStree/HelloQuest3/issues/142)
+  * [ ]  [Moss](https://github.com/EloiStree/HelloQuest3/issues/141)  
 
 
 ------------
