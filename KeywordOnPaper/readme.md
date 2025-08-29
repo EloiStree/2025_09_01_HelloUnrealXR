@@ -22,6 +22,7 @@ Evolution of the Guardian and where we are.
 - Room fourniture guardian: when we had "good enough" scan of block in room
 - Anchor point : when you can start saving position of object in real world
 - Floor Scan: When you are able to play in a larger zone
+  - https://github.com/EloiStree/HelloQuest3/issues/110 
 - AR Camera Areana Battle, pre Camera API: When you want to play on a big zone  
 - Disable the guardian: when you want to take the position in your own hand
 - AR Camera Guaridian Vuforia: When you want to add element to your game or give context your guardian
