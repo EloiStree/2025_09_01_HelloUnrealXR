@@ -22,7 +22,8 @@ Evolution of the Guardian and where we are.
 - Room fourniture guardian: when we had "good enough" scan of block in room
 - Anchor point : when you can start saving position of object in real world
 - Floor Scan: When you are able to play in a larger zone
-  - https://github.com/EloiStree/HelloQuest3/issues/110 
+  - https://github.com/EloiStree/HelloQuest3/issues/110
+  - https://youtu.be/1gzYlLiG0jg?t=23
 - AR Camera Areana Battle, pre Camera API: When you want to play on a big zone  
 - Disable the guardian: when you want to take the position in your own hand
 - AR Camera Guaridian Vuforia: When you want to add element to your game or give context your guardian
@@ -138,3 +139,18 @@ Install :
 
  MUST TRY ; STEAM LAB !!!!
  
+
+Archive:
+- Demo Quest DK1 https://github.com/EloiStree/HelloQuest3/issues/112
+
+A
+
+Workshop Un jeu dans ma bibliotheque:
+- https://github.com/EloiStree/HelloQuest3/blob/main/Workshop/BrushScanInGroup/ReadMe.md
+  - https://github.com/EloiStree/HelloQuest3/issues/101
+ 
+Old video but still good:
+
+- What is VR  https://youtu.be/wRCS2-AAyNM?t=94
+- What is VR 2  https://youtu.be/8rVnkWbLnk8?t=6
+- 
