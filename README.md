@@ -37,7 +37,7 @@ Et vous voulez commencer avec **Unreal Engine** pour créer des expériences en 
 * **Tech :** Voir l’écran du casque avec *scrcpy*
 
 - [Unreal vs Unity vs Godot](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/issues/4)
--  C est quoi la VR
+- [C'est quoi la VR ?](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/issues/5)
 
 ---
 
