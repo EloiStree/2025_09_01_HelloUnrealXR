@@ -24,7 +24,9 @@ Et vous voulez commencer avec **Unreal Engine** pour créer des expériences en 
 **Jour 3 :** PC versus Mobile   
 **Jour 4 :** Voir un modèle Sketchfab sur le Quest 3   
 **Jour 5 :** Dire bonjour au Blueprint  
-
+  
+**[Must Try check List](https://github.com/EloiStree/HelloQuest3/issues/100)**      
+  
 ---
 
 ### **Jour 1 : Bonjour ! C’est quoi un Quest ?**
@@ -33,6 +35,9 @@ Et vous voulez commencer avec **Unreal Engine** pour créer des expériences en 
 
 * **Fun :** Prise en main du Quest — menu, applications classiques, exploration
 * **Tech :** Voir l’écran du casque avec *scrcpy*
+
+- [Unreal vs Unity vs Godot](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/issues/4)
+-  C est quoi la VR
 
 ---
 
