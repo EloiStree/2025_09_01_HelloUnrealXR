@@ -12,6 +12,12 @@
 
 ------------
 
+**Video:** C est quoi un casque Quest3?
+[<img width="1337" height="562" alt="image" src="https://github.com/user-attachments/assets/78a109ed-18c5-441b-920c-73fbb9f865c1" />
+<img width="1351" height="706" alt="image" src="https://github.com/user-attachments/assets/c66e6d3f-79d1-4285-aeee-a358eb61126f" />](https://www.youtube.com/watch?v=tweBgb79VyE)
+https://www.youtube.com/watch?v=tweBgb79VyE
+
+
 **Video:** Utiliser Screen Copy et ADB: 
 [<img width="1359" height="719" alt="image" src="https://github.com/user-attachments/assets/dd7fa275-dc8a-4808-92d8-81a30d9afc6d" />](https://youtu.be/9YHQq8P-aNw?t=318)  
 https://youtu.be/9YHQq8P-aNw?t=318  
