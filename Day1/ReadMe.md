@@ -11,9 +11,6 @@
 
 --------------
 
-Voici une reformulation plus fluide et claire :
-
----
 
 **Objectif de la journée :**
 
