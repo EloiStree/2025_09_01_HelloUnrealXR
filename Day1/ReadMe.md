@@ -46,6 +46,9 @@
   * [ ]  [Moss](https://github.com/EloiStree/HelloQuest3/issues/141)  
 
 
+* **Concept:**
+  * [ ] ["Roblox won the metaverse race without event playing"](https://github.com/EloiStree/HelloQuest3/issues/143) 
+
 ------------
 
 **Video:** C est quoi un casque Quest3?
