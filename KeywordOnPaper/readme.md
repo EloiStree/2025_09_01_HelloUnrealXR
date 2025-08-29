@@ -116,4 +116,18 @@ You choosed Unreal engine but what game engine can you use ?
 
 Connect HDMI to the headset
 - To have camera directly in the headset
-  - https://www.linkedin.com/posts/mattfisherprecipitate_applevisionpro-ugcPost-7366471207451324416-io9S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo 
+  - https://www.linkedin.com/posts/mattfisherprecipitate_applevisionpro-ugcPost-7366471207451324416-io9S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAbZXakBIv3dUUeyXBKfnq58XyNESFvicZo
+ 
+
+
+- How to install apk 2D
+- How to install apk XR
+- How to install store application XR
+- How to install meta lab application
+
+- How to recovert a files from the Quest
+  - From a data app path
+  - From DCMI
+  - From Oculus Video
+ 
+ 
