@@ -9,6 +9,38 @@
 - [Unreal vs Unity vs Godot](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/issues/4)
 - [C'est quoi la VR ?](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/issues/5)
 
+--------------
+
+Voici une reformulation plus fluide et claire :
+
+---
+
+**Objectif de la journée :**
+
+* **Les bases :**
+
+  * [ ] Comprendre ce qu’est le *Guardian*
+  * [ ]  Savoir configurer un Guardian "Roomscale"
+  * [ ]  Savoir désactiver et réactiver le *Guardian*
+  * [ ]  Configurer le Wi-Fi du casque
+  * [ ]  Naviguer dans les menus avec les manettes et/ou les mains
+  * [ ]  Lancer des jeux depuis le Store
+  * [ ]  Lancer des jeux provenant de sources inconnues
+  * [ ]  Vous scannez une piece avec l outils de Meta
+
+
+* **Développeur :**
+
+  * [ ]  Télécharger et installer **SCRCPY**
+  * [ ]  Afficher l’écran du casque via le câble
+  * [ ]  Afficher la caméra du casque via le câble
+  * [ ]  Connecter le casque en Wi-Fi (via **SideQuest** ou **SCRCPY**)
+ 
+* **Jeux :**
+* Minima:
+  * [ ]  Vous avez tester First Encounter*
+  * [ ]  Vous avez tester Cubism*
+
 
 ------------
 
