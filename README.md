@@ -39,6 +39,7 @@ Et vous voulez commencer avec **Unreal Engine** pour créer des expériences en 
 - [Unreal vs Unity vs Godot](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/issues/4)
 - [C'est quoi la VR ?](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/issues/5)
 
+[=> ToDoToday](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/blob/main/Day1/ReadMe.md)
 ---
 
 ### **Jour 2 : Installons des jeux de développeurs**
@@ -48,6 +49,8 @@ Et vous voulez commencer avec **Unreal Engine** pour créer des expériences en 
 * **Tech :** Tester des classiques et installer des APK — *SideQuest*, *Dev Hub*, *ADB*
 * **Fun :** Essayer des APK trouvés sur le Web — *Camera API*, *MRTK*, *XRTK*, APK hors magasin
 
+[=> ToDoToday](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/blob/main/Day2/ReadMe.md)
+
 ---
 
 ### **Jour 3 : Passons du mobile au PC**
@@ -56,6 +59,8 @@ Et vous voulez commencer avec **Unreal Engine** pour créer des expériences en 
 
 * **Tech :** Quest Link, Meta Hub, SteamVR, ALVR, Meta Remote
 * **Fun :** Jouer à *Half-Life: Alyx* et *Robo Recall* (PC vs mobile)
+
+[=> ToDoToday](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/blob/main/Day3/ReadMe.md)
 
 ---
 
