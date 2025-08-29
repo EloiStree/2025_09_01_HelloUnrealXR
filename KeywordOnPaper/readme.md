@@ -129,5 +129,12 @@ Connect HDMI to the headset
   - From a data app path
   - From DCMI
   - From Oculus Video
- 
+  - 
+
+Install :
+- Quake 3
+- Virtual Boy
+
+
+ MUST TRY ; STEAM LAB !!!!
  
