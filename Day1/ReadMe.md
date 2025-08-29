@@ -4,7 +4,7 @@
 *Par Eloi*
 
 * **Fun :** Prise en main du Quest — menu, applications classiques, exploration
-* **Tech :** Voir l’écran du casque avec *scrcpy*
+* **Tech :** Voir l’écran du casque avec *[scrcpy](https://github.com/EloiStree/HelloQuest3/issues/137)*
 
 - [Unreal vs Unity vs Godot](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/issues/4)
 - [C'est quoi la VR ?](https://github.com/EloiStree/2025_09_01_HelloUnrealXR/issues/5)
@@ -21,7 +21,8 @@
   * [ ]  Savoir désactiver et réactiver le *Guardian*
   * [ ]  Configurer le Wi-Fi du casque
   * [ ]  Naviguer dans les menus avec les manettes et/ou les mains
-  * [ ]  Lancer des jeux depuis le Store
+  * [ ]  Lancer des jeux depuis le [Store](https://github.com/EloiStree/HelloQuest3/issues/139)
+  * [ ]  Lancer des jeux depuis le [Meta Lab](https://github.com/EloiStree/HelloQuest3/issues/140)
   * [ ]  Lancer des jeux provenant de sources inconnues
   * [ ]  Vous scannez une piece avec l outils de Meta
 
@@ -37,6 +38,8 @@
 * Minima:
   * [ ]  Vous avez tester First Encounter*
   * [ ]  Vous avez tester Cubism*
+  * [ ]  Vous avez tester Open Brush en mode VR
+  * [ ]  Vous avez tester Open Brush en mode passthrough
 
 
 ------------
