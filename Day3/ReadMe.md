@@ -7,9 +7,7 @@
 
 
 ----------------
-Voici une version corrigée et un peu harmonisée de ton texte :
 
----
 
 **🎯 Objectif de la journée :**
 
@@ -28,7 +26,6 @@ Voici une version corrigée et un peu harmonisée de ton texte :
 ### 🛠️ Développeur
 
 * [ ] Avoir pris connaissance des étapes pour créer une application **Unity XR**
-
   * [ ] Les étapes pour **Unreal Engine** seront vues avec Vincent dans le cours dédié
 * [ ] Avoir échangé brièvement sur l’histoire de la XR, les moteurs de jeu et l’avenir de la XR
 
@@ -41,10 +38,6 @@ Voici une version corrigée et un peu harmonisée de ton texte :
 * [ ] Tester **Virtual Desktop**
 * [ ] Tester **Meta Remote**
 * [ ] Tester un jeu **SteamVR** au choix
-
----
-
-Veux-tu que je le reformule dans un style **plus pédagogique** (par exemple en mode "parcours d’apprentissage") ou tu préfères garder le format **checklist direct** ?
 
 
 ----------------
