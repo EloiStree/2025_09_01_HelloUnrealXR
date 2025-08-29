@@ -37,7 +37,7 @@ Voici une version corrigée et un peu harmonisée de ton texte :
 ### 🎮 Jeux
 
 * [ ] Tester **Half-Life: Alyx**
-* [ ] Tester **Robo Recall**
+* [ ] Tester **Robo Recall** sur PC et sur Quest3
 * [ ] Tester **Virtual Desktop**
 * [ ] Tester **Meta Remote**
 * [ ] Tester un jeu **SteamVR** au choix
