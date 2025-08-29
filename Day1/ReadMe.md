@@ -29,15 +29,16 @@
 
 * **Développeur :**
 
-  * [ ]  Télécharger et installer **SCRCPY**
+  * [ ]  Télécharger et installer **[SCRCPY](https://github.com/EloiStree/HelloQuest3/issues/137)**
   * [ ]  Afficher l’écran du casque via le câble
   * [ ]  Afficher la caméra du casque via le câble
   * [ ]  Connecter le casque en Wi-Fi (via **SideQuest** ou **SCRCPY**)
  
 * **Jeux :**
 * Minima:
-  * [ ]  Vous avez tester First Encounter*
-  * [ ]  Vous avez tester Cubism*
+  * [ ]  Vous avez tester [  ](https://github.com/EloiStree/HelloQuest3/issues/96)
+  * [ ]  Vous avez tester [First Encounter](https://github.com/EloiStree/HelloQuest3/issues/96)
+  * [ ]  Vous avez tester Cubism
   * [ ]  Vous avez tester Open Brush en mode VR
   * [ ]  Vous avez tester Open Brush en mode passthrough
 
