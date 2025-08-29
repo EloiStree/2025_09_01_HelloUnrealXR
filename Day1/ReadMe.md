@@ -26,6 +26,7 @@
   * [ ]  Lancer des jeux provenant de sources inconnues
   * [ ]  Vous scannez une piece avec l'outils de Meta
   * [ ]  Savoir activer et desactiver les mains dans le Quest
+    * [ ]  Tapoter pour switcher les manettes
 
 
 * **Développeur :**
