@@ -25,6 +25,7 @@
   * [ ]  Lancer des jeux depuis le [Meta Lab](https://github.com/EloiStree/HelloQuest3/issues/140)
   * [ ]  Lancer des jeux provenant de sources inconnues
   * [ ]  Vous scannez une piece avec l'outils de Meta
+  * [ ]  Savoir activer et desactiver les mains dans le Quest
 
 
 * **Développeur :**
