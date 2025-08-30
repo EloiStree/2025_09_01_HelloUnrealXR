@@ -46,6 +46,7 @@
 * Other:
   * [ ]  [Wall Town Wonders](https://github.com/EloiStree/HelloQuest3/issues/142)
   * [ ]  [Moss](https://github.com/EloiStree/HelloQuest3/issues/141)  
+  * [ ]  [Virtual Boy](https://github.com/EloiStree/HelloQuest3/issues/159)  
 
 
 * **Concept:**
