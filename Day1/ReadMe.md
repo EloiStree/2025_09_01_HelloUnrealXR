@@ -50,7 +50,8 @@
 
 
 * **Concept:**
-  * [ ] ["Roblox won the metaverse race without event playing"](https://github.com/EloiStree/HelloQuest3/issues/143) 
+  * [ ] ["Roblox won the metaverse race without event playing"](https://github.com/EloiStree/HelloQuest3/issues/143)
+  * [ ] [L'Histoie des guardians](https://github.com/EloiStree/HelloQuest3/issues/164)
 
 ------------
 
