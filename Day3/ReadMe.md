@@ -2,8 +2,8 @@
 
 *Par Eloi*
 
-* **Tech :** Quest Link, Meta Developper Hub, SteamVR, ALVR, Meta Remote
-* **Fun :** Jouer à *Half-Life: Alyx* et *Robo Recall* (PC vs mobile)
+* **Tech :** [Quest Link](https://github.com/EloiStree/HelloQuest3/issues/151), [Meta Developer Hub](https://github.com/EloiStree/HelloQuest3/issues/125), [SteamVR](https://github.com/EloiStree/HelloQuest3/issues/152), [ALVR](https://github.com/EloiStree/HelloQuest3/issues/124), [Meta Remote](https://github.com/EloiStree/HelloQuest3/issues/86)
+* **Fun :** Jouer à *[Half-Life: Alyx](https://github.com/EloiStree/HelloQuest3/issues/153)* et *[Robo Recall](https://github.com/EloiStree/HelloQuest3/issues/154)* (PC vs mobile)
 
 
 ----------------
@@ -13,13 +13,13 @@
 
 ### ✅ Les bases
 
-* [ ] Posséder un compte **Meta XR Developer**
-* [ ] Savoir installer **Oculus Setup** sur PC
-* [ ] Savoir utiliser **SteamVR**
-* [ ] Savoir lancer des jeux **SteamXR**
-* [ ] Savoir installer et utiliser **ALVR**
-* [ ] Connaître **Meta Remote**
-* [ ] Avoir des notions sur **Virtual Desktop**
+* [ ] Posséder un compte **[Meta XR Developer](https://github.com/EloiStree/HelloQuest3/issues/155)**
+* [ ] Savoir installer **[Oculus Setup](https://github.com/EloiStree/HelloQuest3/issues/88)** sur PC
+* [ ] Savoir utiliser **[SteamVR](https://github.com/EloiStree/HelloQuest3/issues/125)**
+* [ ] Savoir lancer des jeux **SteamVR**
+* [ ] Savoir installer et utiliser **[ALVR](https://github.com/EloiStree/HelloQuest3/issues/124)**
+* [ ] Connaître **[Meta Remote](https://github.com/EloiStree/HelloQuest3/issues/86)**
+* [ ] Avoir des notions sur **[Virtual Desktop](https://github.com/EloiStree/HelloQuest3/issues/156)**
 
 ---
 
@@ -33,11 +33,11 @@
 
 ### 🎮 Jeux
 
-* [ ] Tester **Half-Life: Alyx**
-* [ ] Tester **Robo Recall** sur PC et sur Quest3
-* [ ] Tester **Virtual Desktop**
-* [ ] Tester **Meta Remote**
-* [ ] Tester un jeu **SteamVR** au choix
+* [ ] Tester **[Half-Life: Alyx](https://github.com/EloiStree/HelloQuest3/issues/153)**
+* [ ] Tester **[Robo Recall](https://github.com/EloiStree/HelloQuest3/issues/154)** sur PC et sur Quest3
+* [ ] Tester **[Virtual Desktop](https://github.com/EloiStree/HelloQuest3/issues/156)**
+* [ ] Tester **[Meta Remote](https://github.com/EloiStree/HelloQuest3/issues/86)**
+* [ ] Tester un jeu **[SteamVR](https://github.com/EloiStree/HelloQuest3/issues/125)** au choix
 
 
 ----------------
