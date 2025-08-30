@@ -2,18 +2,16 @@
 
 *Par Eloi*
 
-* **Tech :** Tester des classiques et installer des APK — *SideQuest*, *Dev Hub*, *ADB*
+* **Tech :** Tester des classiques et installer des APK — *[SideQuest](https://github.com/EloiStree/HelloQuest3/issues/87)*, *Dev Hub*, *ADB*
 * **Fun :** Essayer des APK trouvés sur le Web — *Camera API*, *MRTK*, *XRTK*, APK hors magasin
 
 --------------
-
 
 **🎯 Objectif de la journée :**
 
 ### ✅ Les bases
 
 * [ ] Installer et utiliser **SideQuest**
-
   * [ ] Installer MRTK, Magic Door et autres APK
   * [ ] Récupérer les fichiers exportés depuis **Open Brush**
   * [ ] Récupérer les fichiers exportés depuis **Painting VR**
