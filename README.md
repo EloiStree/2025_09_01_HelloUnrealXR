@@ -22,7 +22,7 @@ Et vous voulez commencer avec **Unreal Engine** pour créer des expériences en 
 **Jour 1 :** Prise en main   
 **Jour 2 :** Installer des jeux   
 **Jour 3 :** PC versus Mobile   
-**Jour 4 :** Voir un modèle Sketchfab sur le Quest 3   
+**Jour 4 :** Dire bonjour a Unreal Engine   
 **Jour 5 :** Dire bonjour au Blueprint  
   
 **[Must Try check List](https://github.com/EloiStree/HelloQuest3/issues/100)**      
