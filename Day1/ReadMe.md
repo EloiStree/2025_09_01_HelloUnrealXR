@@ -77,6 +77,12 @@ Small Note:
 - Etre au courant de la position des leds de position dans la manette [🗒️](https://github.com/EloiStree/HelloQuest3/issues/183)
 - Vous pouvez utilisez un HDMI ou une Webcam sur le Quest3 depuis peu
 - https://youtu.be/bUa1vpEWpWw
+- C est quoi RoboFlow and le AIHACK of Meta ?
+- Stereopsia : https://github.com/EloiStree/HelloQuest3/issues/157
+- XRAIHACK https://x.com/xraihack?lang=en
+- Meta Connect  https://www.meta.com/connect/?srsltid=AfmBOordgJg48K2RaQs5gLofbl6scVZLkfK09TP7HN4ucEJlWt4-WMhQ
+
+
 ------------
 
 **Video:** C est quoi un casque Quest3?
