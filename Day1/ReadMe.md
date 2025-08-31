@@ -35,18 +35,18 @@
 
 * **Développeur :**
 
-  * [ ]  Télécharger et installer **[SCRCPY](https://github.com/EloiStree/HelloQuest3/issues/137)**
-  * [ ]  Afficher l’écran du casque via le câble
-  * [ ]  Afficher la caméra du casque via le câble
+  * [ ]  Télécharger et "installer" **[SCRCPY](https://github.com/EloiStree/HelloQuest3/issues/137)**
+    * [ ]  Afficher l’écran du casque via le SCRCPY
+    * [ ]  Afficher la caméra du casque via le SCRCPY
   * [ ]  Connecter le casque en Wi-Fi (via **SideQuest** ou **SCRCPY**)
  
 * **Jeux :**
 * Minima:
-  * [ ]  Vous avez tester [  ](https://github.com/EloiStree/HelloQuest3/issues/96)
   * [ ]  Vous avez tester [First Encounter](https://github.com/EloiStree/HelloQuest3/issues/96)
-  * [ ]  Vous avez tester Cubism
-  * [ ]  Vous avez tester Open Brush en mode VR
-  * [ ]  Vous avez tester Open Brush en mode passthrough
+  * [ ]  Vous avez tester [Cubism](https://github.com/EloiStree/HelloQuest3/issues/182)
+  * [ ]  Vous avez tester [Open Brush](https://github.com/EloiStree/HelloPaintingJam/issues/9) en mode VR
+    * [ ] Essayer: Rotate, Translate et Scale   
+  * [ ]  Vous avez tester [Open Brush](https://github.com/EloiStree/HelloPaintingJam/issues/9) en mode passthrough
 * Bonus:
   * [ ] [First Step](https://github.com/EloiStree/HelloQuest3/issues/171)
   * [ ] [Surface](https://github.com/EloiStree/HelloQuest3/issues/172)
@@ -63,6 +63,9 @@
 * **Concept:**
   * [ ] ["Roblox won the metaverse race without event playing"](https://github.com/EloiStree/HelloQuest3/issues/143)
   * [ ] [L'Histoie des guardians](https://github.com/EloiStree/HelloQuest3/issues/164)
+
+Small Note:
+- Etre au courant de la position des leds de position dans la manette [🗒️](https://github.com/EloiStree/HelloQuest3/issues/183)
 
 ------------
 
@@ -81,9 +84,6 @@ https://youtu.be/9YHQq8P-aNw?t=318
 # Draft note
 
 https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB/blob/main/StepByStep.md
-
-
-
 
 [<img width="839" height="411" alt="image" src="https://github.com/user-attachments/assets/ff981d6f-67f5-4b64-9cf4-df7f791cebca" />](https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB/blob/main/StepByStep.md
 )
