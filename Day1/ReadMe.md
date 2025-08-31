@@ -26,9 +26,11 @@
   * [ ]  Lancer des jeux provenant de sources inconnues
     * [ ] Installer de developpeur hub
     * [ ] Deposer l'apk de MRTK, VRTK, XRTK 
-  * [ ]  Vous scannez une piece avec l'outils de Meta
+  * [ ]  Vous scannez une piece avec l'outils de Meta ([🎥]https://github.com/EloiStree/HelloQuest3/issues/175)
   * [ ]  Savoir activer et desactiver les mains dans le Quest _(v)_
     * [ ]  Tapoter pour switcher des manettes au mains _(v)_
+  * [ ] Enregistrer un play-through de Virtual Boy ([🎥](https://github.com/EloiStree/HelloQuest3/issues/174)
+  * [ ] Prendre des measures avec Open Brush ([🎥](https://github.com/EloiStree/HelloQuest3/issues/176))
 
 
 * **Développeur :**
