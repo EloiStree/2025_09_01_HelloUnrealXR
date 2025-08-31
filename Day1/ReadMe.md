@@ -17,13 +17,15 @@
 * **Les bases :**
 
   * [ ] Comprendre ce qu’est le *Guardian*
-  * [ ]  Savoir configurer un Guardian "Roomscale"
+  * [ ]  Savoir configurer un Guardian "Roomscale" ([🎥](https://github.com/EloiStree/HelloQuest3/issues/173))
   * [ ]  Savoir désactiver et réactiver le *Guardian*
   * [ ]  Configurer le Wi-Fi du casque
   * [ ]  Naviguer dans les menus avec les manettes et/ou les mains
   * [ ]  Lancer des jeux depuis le [Store](https://github.com/EloiStree/HelloQuest3/issues/139)
   * [ ]  Lancer des jeux depuis le [Meta Lab](https://github.com/EloiStree/HelloQuest3/issues/140)
   * [ ]  Lancer des jeux provenant de sources inconnues
+    * [ ] Installer de developpeur hub
+    * [ ] Deposer l'apk de MRTK, VRTK, XRTK 
   * [ ]  Vous scannez une piece avec l'outils de Meta
   * [ ]  Savoir activer et desactiver les mains dans le Quest _(v)_
     * [ ]  Tapoter pour switcher des manettes au mains _(v)_
@@ -68,3 +70,12 @@ https://www.youtube.com/watch?v=tweBgb79VyE
 [<img width="1359" height="719" alt="image" src="https://github.com/user-attachments/assets/dd7fa275-dc8a-4808-92d8-81a30d9afc6d" />](https://youtu.be/9YHQq8P-aNw?t=318)  
 https://youtu.be/9YHQq8P-aNw?t=318  
 
+
+----------
+# Draft note
+
+https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB/blob/main/StepByStep.md
+
+
+
+-------------
