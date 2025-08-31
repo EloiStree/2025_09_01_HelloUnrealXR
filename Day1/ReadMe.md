@@ -54,7 +54,10 @@
   * [ ]  [Wall Town Wonders](https://github.com/EloiStree/HelloQuest3/issues/142)
   * [ ]  [Moss](https://github.com/EloiStree/HelloQuest3/issues/141)  
   * [ ]  [Virtual Boy](https://github.com/EloiStree/HelloQuest3/issues/159)
-  * [ ]  Apprendre a peindre [🎥](https://github.com/EloiStree/HelloQuest3/issues/178)  
+  * [ ]  Apprendre a peindre [🎥](https://github.com/EloiStree/HelloQuest3/issues/178)
+  * [ ]  Apprendre a dessiner [🎥](https://github.com/EloiStree/HelloQuest3/issues/181)
+    * [ ]  Tester [Contour](https://github.com/EloiStree/HelloPaintingJam/issues/7)
+    * [ ]  Tester [Pencil](https://github.com/EloiStree/HelloPaintingJam/issues/6)
 
 
 * **Concept:**
