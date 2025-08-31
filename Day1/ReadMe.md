@@ -45,6 +45,7 @@
   * [ ]  Vous avez tester Open Brush en mode passthrough
 * Bonus:
   * [ ] [First Step](https://github.com/EloiStree/HelloQuest3/issues/171)
+  * [ ] [Surface](https://github.com/EloiStree/HelloQuest3/issues/172)
 * Other:
   * [ ]  [Wall Town Wonders](https://github.com/EloiStree/HelloQuest3/issues/142)
   * [ ]  [Moss](https://github.com/EloiStree/HelloQuest3/issues/141)  
