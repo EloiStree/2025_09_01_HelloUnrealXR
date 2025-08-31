@@ -31,6 +31,14 @@
     * [ ]  Tapoter pour switcher des manettes au mains _(v)_
   * [ ] Enregistrer un play-through de Virtual Boy ([🎥](https://github.com/EloiStree/HelloQuest3/issues/174)
   * [ ] Prendre des measures avec Open Brush ([🎥](https://github.com/EloiStree/HelloQuest3/issues/176))
+ * **Bonus**
+   * [ ] Utiliser Remote Desktop pour travailler [🎥](https://github.com/EloiStree/HelloQuest3/issues/185)
+   * [ ] Travailler sur un PC distance [🎥](https://github.com/EloiStree/HelloQuest3/issues/186)
+   * [ ] Louer un PC pour travailler depuis un patate [🎥](https://github.com/EloiStree/HelloQuest3/issues/187)
+   * [ ] Utiliser Steam Link [🎥](https://github.com/EloiStree/HelloQuest3/issues/188) 
+   * [ ] Utiliser ALVR [🎥](https://github.com/EloiStree/HelloQuest3/issues/189)
+
+
 
 
 * **Développeur :**
@@ -66,7 +74,8 @@
 
 Small Note:
 - Etre au courant de la position des leds de position dans la manette [🗒️](https://github.com/EloiStree/HelloQuest3/issues/183)
-
+- Vous pouvez utilisez un HDMI ou une Webcam sur le Quest3 depuis peu
+- https://youtu.be/bUa1vpEWpWw
 ------------
 
 **Video:** C est quoi un casque Quest3?
