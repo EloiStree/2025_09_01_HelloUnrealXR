@@ -34,9 +34,10 @@
  * **Bonus**
    * [ ] Utiliser Remote Desktop pour travailler [🎥](https://github.com/EloiStree/HelloQuest3/issues/185)
    * [ ] Travailler sur un PC distance [🎥](https://github.com/EloiStree/HelloQuest3/issues/186)
-   * [ ] Louer un PC pour travailler depuis un patate [🎥](https://github.com/EloiStree/HelloQuest3/issues/187)
+   * [ ] Louer un PC Shadow pour travailler depuis un patate [🎥](https://github.com/EloiStree/HelloQuest3/issues/187)
    * [ ] Utiliser Steam Link [🎥](https://github.com/EloiStree/HelloQuest3/issues/188) 
    * [ ] Utiliser ALVR [🎥](https://github.com/EloiStree/HelloQuest3/issues/189)
+   
 
 
 
