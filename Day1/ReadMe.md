@@ -53,7 +53,8 @@
 * Other:
   * [ ]  [Wall Town Wonders](https://github.com/EloiStree/HelloQuest3/issues/142)
   * [ ]  [Moss](https://github.com/EloiStree/HelloQuest3/issues/141)  
-  * [ ]  [Virtual Boy](https://github.com/EloiStree/HelloQuest3/issues/159)  
+  * [ ]  [Virtual Boy](https://github.com/EloiStree/HelloQuest3/issues/159)
+  * [ ]  Apprendre a peindre [🎥](https://github.com/EloiStree/HelloQuest3/issues/178)  
 
 
 * **Concept:**
@@ -78,6 +79,8 @@ https://youtu.be/9YHQq8P-aNw?t=318
 
 https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB/blob/main/StepByStep.md
 
+
+- Savoir faire des graffiti et les exporter pour votre jeu: https://github.com/EloiStree/HelloQuest3/issues/177
 
 
 -------------
