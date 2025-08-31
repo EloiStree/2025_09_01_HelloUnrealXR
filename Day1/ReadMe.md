@@ -18,7 +18,7 @@
 
   * [ ] Comprendre ce qu’est le *Guardian*
   * [ ]  Savoir configurer un Guardian "Roomscale" ([🎥](https://github.com/EloiStree/HelloQuest3/issues/173))
-  * [ ]  Savoir désactiver et réactiver le *Guardian*
+  * [ ]  Savoir désactiver et réactiver le *Guardian* [🎥](https://github.com/EloiStree/HelloQuest3/issues/190)
   * [ ]  Configurer le Wi-Fi du casque [🎥](https://github.com/EloiStree/HelloQuest3/issues/191) 
   * [ ]  Naviguer dans les menus avec les manettes et/ou les mains [🎥](https://github.com/EloiStree/HelloQuest3/issues/92)
   * [ ]  Lancer des jeux depuis le [Store](https://github.com/EloiStree/HelloQuest3/issues/139)
