@@ -80,6 +80,11 @@ https://youtu.be/9YHQq8P-aNw?t=318
 https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB/blob/main/StepByStep.md
 
 
+
+
+[<img width="839" height="411" alt="image" src="https://github.com/user-attachments/assets/ff981d6f-67f5-4b64-9cf4-df7f791cebca" />](https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB/blob/main/StepByStep.md
+)
+
 - Savoir faire des graffiti et les exporter pour votre jeu: https://github.com/EloiStree/HelloQuest3/issues/177
 - Savoir trianguler un mesh depuis Open Brush https://github.com/EloiStree/HelloQuest3/issues/179
 
