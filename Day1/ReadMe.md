@@ -81,6 +81,6 @@ https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB/blob/main/StepBy
 
 
 - Savoir faire des graffiti et les exporter pour votre jeu: https://github.com/EloiStree/HelloQuest3/issues/177
-
+- Savoir trianguler un mesh depuis Open Brush https://github.com/EloiStree/HelloQuest3/issues/179
 
 -------------
