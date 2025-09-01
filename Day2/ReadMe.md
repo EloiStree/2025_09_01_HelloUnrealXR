@@ -11,6 +11,10 @@
 
 ### ✅ Les bases
 
+* [ ] Créer un compte Meta Developer 
+  * [ ] Installer Meta App sur telephone et passer un casque en mode developer
+  * [ ] Creer un organisation
+  * [ ] Creer un app pour le fun
 * [ ] Installer et utiliser **[SideQuest](https://github.com/EloiStree/HelloQuest3/issues/150)**
   * [x] Installer [MRTK](https://github.com/EloiStree/HelloQuest3/issues/99),
   * [ ] Installer [Magic Door](https://github.com/EloiStree/HelloQuest3/issues/119) et autres APK
