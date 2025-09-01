@@ -2,6 +2,8 @@
 
 # Hello Unreal XR
 
+https://discord.gg/mb9RZxKyyX
+
 Bonjour à vous 😁
 
 Vous avez envie de vous lancer dans l’industrie du jeu vidéo ?
