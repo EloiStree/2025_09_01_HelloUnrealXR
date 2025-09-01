@@ -25,6 +25,7 @@
 * [Blender](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/16)
 * [OBS – Open Broadcaster Software](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/157)
 * [Meta Quest Developer Hub](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/344)
+* [Discord](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/347)
 
 ---
 
