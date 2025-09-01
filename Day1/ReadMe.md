@@ -82,6 +82,11 @@ Small Note:
 - [ ] Meta Connect  https://www.meta.com/connect/?srsltid=AfmBOordgJg48K2RaQs5gLofbl6scVZLkfK09TP7HN4ucEJlWt4-WMhQ
 
 
+
+Ajouter pendant le cours:
+- [x] Testez les bHaptics sur telephone
+
+
 ------------
 
 **Video:** C est quoi un casque Quest3?
