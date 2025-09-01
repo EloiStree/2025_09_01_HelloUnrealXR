@@ -16,20 +16,20 @@
 
 * **Les bases :**
 
-  * [ ] Comprendre ce qu’est le *Guardian*
-  * [ ]  Savoir configurer un Guardian "Roomscale" [🎥](https://github.com/EloiStree/HelloQuest3/issues/173)
+  * [x] Comprendre ce qu’est le *Guardian*
+  * [x]  Savoir configurer un Guardian "Roomscale" [🎥](https://github.com/EloiStree/HelloQuest3/issues/173)
   * [ ]  Savoir désactiver et réactiver le *Guardian* [🎥](https://github.com/EloiStree/HelloQuest3/issues/190)
-  * [ ]  Configurer le Wi-Fi du casque [🎥](https://github.com/EloiStree/HelloQuest3/issues/191) 
-  * [ ]  Naviguer dans les menus avec les manettes et/ou les mains [🎥](https://github.com/EloiStree/HelloQuest3/issues/92)
-  * [ ]  Lancer des jeux depuis le [Store](https://github.com/EloiStree/HelloQuest3/issues/139)
+  * [x]  Configurer le Wi-Fi du casque [🎥](https://github.com/EloiStree/HelloQuest3/issues/191) 
+  * [x]  Naviguer dans les menus avec les manettes et/ou les mains [🎥](https://github.com/EloiStree/HelloQuest3/issues/92)
+  * [x]  Lancer des jeux depuis le [Store](https://github.com/EloiStree/HelloQuest3/issues/139)
   * [ ]  Lancer des jeux depuis le [Meta Lab](https://github.com/EloiStree/HelloQuest3/issues/140)
-  * [ ]  Lancer des jeux provenant de sources inconnues
+  * [x]  Lancer des jeux provenant de sources inconnues
     * [ ] Installer MRTK, VRTK, XRTK depuis SCRCPY [🎥](https://github.com/EloiStree/HelloQuest3/issues/192) 
-  * [ ]  Vous scannez une piece avec l'outils de Meta [🎥](https://github.com/EloiStree/HelloQuest3/issues/175)
+  * [x]  Vous scannez une piece avec l'outils de Meta [🎥](https://github.com/EloiStree/HelloQuest3/issues/175)
   * [ ]  Savoir activer et desactiver les mains dans le Quest _v_
     * [ ]  Tapoter pour switcher des manettes au mains _v_
   * [ ] Prendre des measures avec Open Brush [🎥](https://github.com/EloiStree/HelloQuest3/issues/176)
-  * [ ] Enregistrer un play-through de Virtual Boy [🎥](https://github.com/EloiStree/HelloQuest3/issues/174)
+  * [x] Enregistrer un play-through de Virtual Boy [🎥](https://github.com/EloiStree/HelloQuest3/issues/174)
  * **Bonus**
    * [ ] Utiliser Remote Desktop pour travailler [🎥](https://github.com/EloiStree/HelloQuest3/issues/185)
    * [ ] Travailler sur un PC distance [🎥](https://github.com/EloiStree/HelloQuest3/issues/186)
@@ -46,15 +46,16 @@
   * [ ]  Télécharger et "installer" **[SCRCPY](https://github.com/EloiStree/HelloQuest3/issues/137)**
     * [ ]  Afficher l’écran du casque via le SCRCPY
     * [ ]  Afficher la caméra du casque via le SCRCPY
-  * [ ]  Connecter le casque en Wi-Fi (via **SideQuest** ou **SCRCPY**)
+  * [x]  Connecter le casque en Wi-Fi (via **SideQuest** ou **SCRCPY**)
  
 * **Jeux :**
 * Minima:
-  * [ ]  Vous avez tester [First Encounter](https://github.com/EloiStree/HelloQuest3/issues/96)
+  * [x]  Vous avez tester [First Encounter](https://github.com/EloiStree/HelloQuest3/issues/96)
   * [ ]  Vous avez tester [Cubism](https://github.com/EloiStree/HelloQuest3/issues/182)
-  * [ ]  Vous avez tester [Open Brush](https://github.com/EloiStree/HelloPaintingJam/issues/9) en mode VR
+  * [x]  Vous avez tester [Open Brush](https://github.com/EloiStree/HelloPaintingJam/issues/9) en mode VR
     * [ ] Essayer: Rotate, Translate et Scale   
-  * [ ]  Vous avez tester [Open Brush](https://github.com/EloiStree/HelloPaintingJam/issues/9) en mode passthrough
+  * [x]  Vous avez tester [Open Brush](https://github.com/EloiStree/HelloPaintingJam/issues/9) en mode passthrough
+  * [ ]  Vous avez tester [Roblox VR](https://github.com/EloiStree/HelloQuest3/issues/160)
 * Bonus:
   * [ ] [First Step](https://github.com/EloiStree/HelloQuest3/issues/171)
   * [ ] [Surface](https://github.com/EloiStree/HelloQuest3/issues/172)
@@ -69,17 +70,16 @@
 
 
 * **Concept:**
-  * [ ] ["Roblox won the metaverse race without event playing"](https://github.com/EloiStree/HelloQuest3/issues/143)
+  * [x] ["Roblox won the metaverse race without event playing"](https://github.com/EloiStree/HelloQuest3/issues/143)
   * [ ] [L'Histoie des guardians](https://github.com/EloiStree/HelloQuest3/issues/164)
 
 Small Note:
-- Etre au courant de la position des leds de position dans la manette [🗒️](https://github.com/EloiStree/HelloQuest3/issues/183)
-- Vous pouvez utilisez un HDMI ou une Webcam sur le Quest3 depuis peu
-- https://youtu.be/bUa1vpEWpWw
-- C est quoi RoboFlow and le AIHACK of Meta ?
-- Stereopsia : https://github.com/EloiStree/HelloQuest3/issues/157
-- XRAIHACK https://x.com/xraihack?lang=en
-- Meta Connect  https://www.meta.com/connect/?srsltid=AfmBOordgJg48K2RaQs5gLofbl6scVZLkfK09TP7HN4ucEJlWt4-WMhQ
+- [x] Etre au courant de la position des leds de position dans la manette [🗒️](https://github.com/EloiStree/HelloQuest3/issues/183)
+- [x] Vous pouvez utilisez un HDMI ou une Webcam sur le Quest3 depuis peu [🎥](https://youtu.be/bUa1vpEWpWw)
+- [ ] C est quoi RoboFlow and le AIHACK of Meta ?
+- [x] Stereopsia : https://github.com/EloiStree/HelloQuest3/issues/157
+- [ ] XRAIHACK https://x.com/xraihack?lang=en
+- [ ] Meta Connect  https://www.meta.com/connect/?srsltid=AfmBOordgJg48K2RaQs5gLofbl6scVZLkfK09TP7HN4ucEJlWt4-WMhQ
 
 
 ------------
@@ -103,7 +103,7 @@ https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB/blob/main/StepBy
 [<img width="839" height="411" alt="image" src="https://github.com/user-attachments/assets/ff981d6f-67f5-4b64-9cf4-df7f791cebca" />](https://github.com/EloiStree/2025_05_18_QuestDevArtDesignAndADB/blob/main/StepByStep.md
 )
 
-- Savoir faire des graffiti et les exporter pour votre jeu: https://github.com/EloiStree/HelloQuest3/issues/177
+-  [ ] Savoir faire des graffiti et les exporter pour votre jeu: https://github.com/EloiStree/HelloQuest3/issues/177
 - Savoir trianguler un mesh depuis Open Brush https://github.com/EloiStree/HelloQuest3/issues/179
 
 -------------
