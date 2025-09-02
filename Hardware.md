@@ -6,10 +6,10 @@
 * 12 câbles **USB-A 2+ vers USB-C** de 3 à 5 mètres pour Quest Link
 * 12 dongles **Wi-Fi** pour PC afin de créer un hotspot depuis chaque ordinateur
 * 12 **Quest 3**, configurés en mode développeur et reliés au compte **Technocité**
-
   * Désactiver puis réactiver le mode développeur via le téléphone pour s’assurer de la configuration de chaque casque
   * (Un téléphone configuré avec les 12 Quest pour les paramétrer sans devoir aller à Mons)
 * **Bonus** : les vestes **bHaptics** pour tester l’intégration avec le Quest 3
+* Update NVidia Drive
 
 ---
 
