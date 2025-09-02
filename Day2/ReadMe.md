@@ -50,3 +50,10 @@
 * [X] Tester **[VRTK](https://github.com/EloiStree/HelloQuest3/issues/97)**
 * [ ] Tester **[XRTK](https://github.com/EloiStree/HelloQuest3/issues/98)**
 
+
+### 🎮 Terminal
+
+* [ ] Avoir connaissance de ADB.exe  https://github.com/Genymobile/scrcpy
+* [ ] Avoir connaissance de SCRCPY.exe  https://github.com/Genymobile/scrcpy
+* [ ] Avoir connaissance de FFMEPG https://ffmpeg.org
+* [ ] Avoir connaissance de Whisper standalone https://github.com/Purfview/whisper-standalone-win
