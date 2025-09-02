@@ -11,6 +11,9 @@
 
 ### ✅ Les bases
 
+* [ ] Dactylography forcee
+  * [ ] https://qwertywar.com
+  * [ ]  https://10fastfingers.com/typing-test/english
 * [ ] Créer un compte Meta Developer 
   * [ ] Installer Meta App sur telephone et passer un casque en mode developer
   * [ ] Creer un organisation
