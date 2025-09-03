@@ -38,6 +38,7 @@
 * [ ] Tester **[Virtual Desktop](https://github.com/EloiStree/HelloQuest3/issues/156)**
 * [ ] Tester **[Meta Remote](https://github.com/EloiStree/HelloQuest3/issues/86)**
 * [ ] Tester un jeu **[SteamVR](https://github.com/EloiStree/HelloQuest3/issues/125)** au choix
+* [ ] Tester le jeu The lab https://store.steampowered.com/app/450390/The_Lab/
 
 
 ----------------
